@@ -1,0 +1,86 @@
+{
+  "title": "Hajimete Koibito ga Dekimashita.",
+  "description": "The times in a new relationship where both are each other's first significant other, and every action and every word feel like a leap to the moon and back.",
+  "artist": "KAMENA Yuu",
+  "author": "KAMENA Yuu",
+  "cover": "https://i.imgur.com/yvbnC8k.jpg",
+  "chapters": {
+    "01": {
+      "volume": "1",
+      "groups": {
+        "Mushokuji": "/proxy/api/imgur/chapter/W90KoiE/"
+      },
+      "last_updated": "1656144393"
+    },
+    "02": {
+      "volume": "1",
+      "groups": {
+        "Mushokuji": "/proxy/api/imgur/chapter/9oWiyEp/"
+      },
+      "last_updated": "1656144393"
+    },
+    "03": {
+      "volume": "1",
+      "groups": {
+        "Mushokuji": "/proxy/api/imgur/chapter/jNQfjAS/"
+      },
+      "last_updated": "1656230793"
+    },
+    "04": {
+      "volume": "1",
+      "groups": {
+        "Mushokuji": "/proxy/api/imgur/chapter/2CWY2Om/"
+      },
+      "last_updated": "1656317193"
+    },
+    "05": {
+      "volume": "1",
+      "groups": {
+        "Mushokuji": "/proxy/api/imgur/chapter/Qk932ir/"
+      },
+      "last_updated": "1656403593"
+    },
+    "06": {
+      "volume": "1",
+      "groups": {
+        "Mushokuji": "/proxy/api/imgur/chapter/KTNuNgC/"
+      },
+      "last_updated": "1656749193"
+    },
+    "07": {
+      "volume": "1",
+      "groups": {
+        "Mushokuji": "/proxy/api/imgur/chapter/ZALxoBh/"
+      },
+      "last_updated": "1656835593"
+    },
+    "08": {
+      "volume": "1",
+      "groups": {
+        "Mushokuji": "/proxy/api/imgur/chapter/5gVm9uu/"
+      },
+      "last_updated": "1658217993" 
+    },
+    "09": {
+      "volume": "1",
+      "groups": {
+        "Mushokuji": "/proxy/api/imgur/chapter/f3fVvRc/"
+      },
+      "last_updated": "1660032393" 
+    },
+    "10": {
+      "volume": "1",
+      "groups": {
+        "Mushokuji": "/proxy/api/imgur/chapter/KNVK7dN/"
+      },
+      "last_updated": "1660291593" 
+    },
+    "11": {
+      "volume": "1",
+      "groups": {
+        "Mushokuji": "/proxy/api/imgur/chapter/N9h3WdL/"
+      },
+      "last_updated": "1660377993"
+    }
+  }
+}
