@@ -144,6 +144,21 @@
         "Mushokuji": "/proxy/api/imgur/chapter/28YPM0k/"
       },
       "last_updated": "1667232522"
+    },
+         "21": {
+      "volume": "1",
+      "groups": {
+        "Mushokuji": "/proxy/api/imgur/chapter/30PHCqL/"
+      },
+      "last_updated": "1670009930"
+    },
+         "21.5": {
+          "title": "I fell in love with you.",
+      "volume": "1",
+      "groups": {
+        "Mushokuji": "/proxy/api/imgur/chapter/c6fncVg/"
+      },
+      "last_updated": "1670009930"
     }
   }
 }
